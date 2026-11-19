@@ -1,0 +1,15 @@
+{
+  "name": "Forge Strength Coaching",
+  "description": "Bold personal-trainer site with temper-steel colours, programs on a loaded barbell, logbook transformations, testimonials and a consultation call-to-action.",
+  "tech": "next",
+  "type": "trainer",
+  "style": "personal",
+  "internal": false,
+  "components": ["support-form"],
+  "configFile": "site.config.json",
+  "screenshots": {
+    "light": "jamstacks/home-light.jpg",
+    "dark": "jamstacks/home-dark.jpg",
+    "theme": { "strategy": "media" }
+  }
+}

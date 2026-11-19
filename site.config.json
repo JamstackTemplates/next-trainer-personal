@@ -1,7 +1,8 @@
 {
-  "name": "Jamstacks starter",
-  "description": "A neutral Next.js foundation for Jamstacks websites.",
-  "domain": "",
+  "name": "Forge Strength Coaching",
+  "description": "Barbell strength coaching in Pittsburgh's Strip District. 1:1, small-crew and remote programs, real client progress and a free consultation call.",
+  "domain": "next-trainer-personal.jamstacks.net",
+  "timeZone": "America/New_York",
   "jamstacks": {
     "siteId": "",
     "cdnUrl": "https://cdn.jamstacks.net"
