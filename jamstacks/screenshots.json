@@ -1,0 +1,22 @@
+{
+  "templateId": "next-trainer-personal",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "fullPage": false,
+  "captures": [
+    {
+      "mode": "light",
+      "sha256": "d9aa11af26f3a6dcddca87dc81df04d4449c0fc80f6d41e8c46c0f3b2adbc2ad",
+      "file": "jamstacks/home-light.jpg",
+      "bytes": 165052
+    },
+    {
+      "mode": "dark",
+      "sha256": "5d65c38b9248a7ffd6b3b9fbaec6931f0f61c68fd70fdc23063eee8b49056497",
+      "file": "jamstacks/home-dark.jpg",
+      "bytes": 151221
+    }
+  ]
+}
